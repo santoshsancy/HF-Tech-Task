@@ -1,0 +1,16 @@
+{
+  "name": "kubernetes-node-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santoshsancy/HF-Tech-Task.git"
+  },
+  "author": "Santosh Kumar Dakarapu",
+  "license": "ISC",
+   
+}
